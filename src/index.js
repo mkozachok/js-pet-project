@@ -14,6 +14,6 @@ const routing = (
             <Route path="/account" component={Account} />
         </div>
     </Router>
-)
+);
 
 ReactDOM.render(routing, document.getElementById("root"));
